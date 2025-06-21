@@ -1,4 +1,4 @@
-# huzlip
+# Huzlip
 
 Advanced C++ Geometry & CAD Library
 

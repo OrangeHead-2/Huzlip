@@ -12,8 +12,8 @@ Advanced C++ Geometry & CAD Library
 ## Quick Start
 
 ```sh
-git clone https://github.com/your-org/huzlip.git
-cd huzlip/scripts
+git clone https://github.com/OrangeHead-2/Huzlip.git
+cd Huzlip/scripts
 ./build.sh
 ./run_tests.sh
 ```
